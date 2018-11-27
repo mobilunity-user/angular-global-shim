@@ -1,1 +1,1 @@
-# angular-global-shim
+# Angular6 global shim
